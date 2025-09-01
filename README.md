@@ -4,11 +4,11 @@
 ![Made with p5.js](https://img.shields.io/badge/Made%20with-p5.js-blue.svg)
 [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://aaronwittchen.github.io/Raycasting/)
 
-https://github.com/user-attachments/assets/2e298ba3-cf97-4d44-aecd-ab22dd22225c
-
 ## Description
 
 A 2D raycasting and visibility demo built with p5.js. Move your mouse to control a "particle" that emits rays in all directions, simulating how light interacts with obstacles (walls). Press 'B' to toggle a rainbow visualization mode.
+
+https://github.com/user-attachments/assets/2e298ba3-cf97-4d44-aecd-ab22dd22225c
 
 ## Features
 
