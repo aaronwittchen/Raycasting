@@ -2,13 +2,14 @@
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Made with p5.js](https://img.shields.io/badge/Made%20with-p5.js-blue.svg)
-![Repo Size](https://img.shields.io/github/repo-size/aaronwittchen/Raycasting)
 [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://aaronwittchen.github.io/Raycasting/)
 
 ## Description
+
 A 2D raycasting and visibility demo built with p5.js. Move your mouse to control a "particle" that emits rays in all directions, simulating how light interacts with obstacles (walls). Press 'B' to toggle a rainbow visualization mode.
 
 ## Features
+
 - Real-time 2D raycasting visualization
 - Randomly generated walls and boundary walls
 - Mouse-controlled particle (light source)
@@ -17,6 +18,7 @@ A 2D raycasting and visibility demo built with p5.js. Move your mouse to control
 - Auto-reloads the page when the window is resized for a consistent experience
 
 ## Architecture
+
 - **index.html**: Loads p5.js and all scripts.
 - **sketch.js**: Main setup and draw loop, manages walls and particle.
 - **boundary.js**: Defines wall segments.
@@ -24,6 +26,7 @@ A 2D raycasting and visibility demo built with p5.js. Move your mouse to control
 - **particle.js**: Manages the particle, its rays, and rendering.
 
 ## Quick Start
+
 1. Clone or download this repository.
 2. Open `index.html` in your browser.
 3. Move your mouse to see the raycasting effect.
@@ -33,10 +36,6 @@ A 2D raycasting and visibility demo built with p5.js. Move your mouse to control
 ---
 
 ### Controls
+
 - **Mouse**: Move the particle (light source)
 - **B**: Toggle rainbow mode
-
----
-
-## License
-MIT
