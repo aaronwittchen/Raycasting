@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "p5.js Raycasting"
+authors:
+  - family-names: Wittchen
+    given-names: Aaron
+    orcid: ""
+    affiliation: ""
+    email: ""
+version: "1.0.0"
+date-released: "2025-01-01"
+license: "MIT"
+repository-code: "https://github.com/aaronwittchen/Raycasting"
+url: "https://aaronwittchen.github.io/Raycasting/"
+abstract: "A 2D raycasting and visibility demo built with p5.js. Move your mouse to control a 'particle' that emits rays in all directions, simulating how light interacts with obstacles (walls). Press 'B' to toggle a rainbow visualization mode."
